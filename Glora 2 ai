@@ -653,4 +653,659 @@
             color: white;
         }
 
+        .subscription-section .section-title```html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Glora AI - Platform AI canggih milik pentarpan@gmail.com dengan integrasi 18 AI terdepan termasuk AI Kursus Gratis, 100JT GPU, Keamanan Super 99, dan 7 fitur pemberantasan kejahatan global.">
+    <meta name="keywords" content="Glora AI, 18 AI terintegrasi, AI Kursus Gratis, ChatGPT, Gemini, InVideo AI, Blackbox AI, Meta AI, Learnado AI, Deep AI, Microsoft AI, Qwen AI, Web3, Web5, pemberantasan kejahatan, Menyediakan Informasi, Menganalisis Data, Meningkatkan Transparansi, Pengumpulan data otomatis, Pembelajaran Berkelanjutan, Analisis Prediksi, Personalisasi Pengalaman, pentarpan@gmail.com, Surabaya">
+    <meta name="author" content="pentarpan@gmail.com">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="Glora AI - Integrasi 18 AI + 7 Fitur Pemberantasan Kejahatan + 100JT GPU">
+    <meta property="og:description" content="Platform AI canggih dengan integrasi 18 AI terdepan termasuk AI Kursus Gratis + 7 fitur pemberantasan kejahatan global: Menyediakan Informasi, Menganalisis Data, Meningkatkan Transparansi, Pengumpulan data otomatis, Pembelajaran Berkelanjutan, Analisis Prediksi, Personalisasi Pengalaman di semua negara!">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://gloraai.com">
+    <meta property="og:site_name" content="Glora AI">
+    <meta property="og:image" content="https://gloraai.com/assets/og-image.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Glora AI - Integrasi 18 AI + 7 Fitur Pemberantasan Kejahatan + 100JT GPU">
+    <meta name="twitter:description" content="Platform AI canggih dengan integrasi 18 AI terdepan termasuk AI Kursus Gratis + 7 fitur pemberantasan kejahatan global: Menyediakan Informasi, Menganalisis Data, Meningkatkan Transparansi, Pengumpulan data otomatis, Pembelajaran Berkelanjutan, Analisis Prediksi, Personalisasi Pengalaman di semua negara!">
+    <meta name="twitter:image" content="https://gloraai.com/assets/twitter-image.jpg">
+    <title>Glora AI - Integrasi 18 AI + 7 Fitur Pemberantasan Kejahatan + 100JT GPU</title>
+    <link rel="canonical" href="https://gloraai.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        :root {
+            --primary: #6366f1;
+            --primary-dark: #4f46e5;
+            --secondary: #8b5cf6;
+            --accent: #ec4899;
+            --light: #f8fafc;
+            --dark: #1e293b;
+            --gray: #64748b;
+            --success: #10b981;
+            --ai-blue: #3b82f6;
+            --gpu-red: #ef4444;
+            --security-green: #16a34a;
+            --veo-purple: #7c3aed;
+            --love-blue: #3b82f6;
+            --love-green: #10b981;
+            --chatgpt-green: #10a37f;
+            --gemini-green: #0f9d58;
+            --meta-blue: #0062ff;
+            --deepai-purple: #6a0dad;
+            --microsoft-blue: #0078d4;
+            --qwen-orange: #ff6b35;
+            --blackbox-gray: #2d3748;
+            --web3-purple: #8a2be2;
+            --web5-orange: #ff6b35;
+            --auto-update-green: #059669;
+            --justice-red: #dc2626;
+            --transparency-blue: #0ea5e9;
+            --data-orange: #f97316;
+            --learning-purple: #8b5cf6;
+            --prediction-teal: #0d9488;
+            --personalization-pink: #ec4899;
+            --subscription-yellow: #eab308;
+        }
+
+        body {
+            background-color: #f1f5f9;
+            color: var(--dark);
+            line-height: 1.6;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Header Styles */
+        header {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 20px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .logo-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        .logo {
+            width: 60px;
+            height: 60px;
+            position: relative;
+        }
+
+        .logo-heart {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, var(--love-blue), var(--love-green));
+            clip-path: path('M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z');
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        header p strong {
+            color: white;
+            font-weight: 600;
+        }
+
+        /* Navigation */
+        nav {
+            background: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 120px;
+            z-index: 999;
+        }
+
+        .menu {
+            display: flex;
+            justify-content: center;
+            list-style: none;
+            padding: 15px 0;
+            margin: 0;
+        }
+
+        .menu li {
+            margin: 0 10px;
+        }
+
+        .menu a {
+            text-decoration: none;
+            color: var(--dark);
+            font-weight: 600;
+            font-size: 1rem;
+            padding: 8px 12px;
+            border-radius: 25px;
+            transition: all 0.3s ease;
+        }
+
+        .menu a:hover {
+            background: linear-gradient(135deg, var(--love-blue), var(--love-green));
+            color: white;
+            transform: translateY(-2px);
+        }
+
+        /* AI Integration Banner */
+        .ai-integration-banner {
+            background: linear-gradient(135deg, var(--ai-blue), var(--primary));
+            color: white;
+            padding: 60px 0;
+            text-align: center;
+            margin: 60px 0;
+            border-radius: 20px;
+        }
+
+        .ai-integration-banner h3 {
+            font-size: 2.2rem;
+            margin-bottom: 20px;
+        }
+
+        .ai-integration-banner p {
+            font-size: 1.2rem;
+            max-width: 800px;
+            margin: 0 auto 30px;
+            opacity: 0.9;
+        }
+
+        .ai-logos {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 12px;
+            margin-top: 30px;
+        }
+
+        .ai-logo {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 7px 14px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.85rem;
+            backdrop-filter: blur(10px);
+            display: flex;
+            align-items: center;
+            gap: 7px;
+        }
+
+        .chatgpt { background: rgba(16, 163, 127, 0.3); color: white; }
+        .gemini { background: rgba(15, 157, 88, 0.3); color: white; }
+        .invideo { background: rgba(239, 68, 68, 0.3); color: white; }
+        .blackbox { background: rgba(45, 55, 72, 0.3); color: white; }
+        .meta { background: rgba(0, 98, 255, 0.3); color: white; }
+        .learnado { background: rgba(102, 126, 234, 0.3); color: white; }
+        .deep { background: rgba(106, 13, 173, 0.3); color: white; }
+        .microsoft { background: rgba(0, 120, 212, 0.3); color: white; }
+        .qwen { background: rgba(255, 107, 53, 0.3); color: white; }
+        .web3 { background: rgba(138, 43, 226, 0.3); color: white; }
+        .web5 { background: rgba(255, 107, 53, 0.3); color: white; }
+        .domain { background: rgba(16, 185, 129, 0.3); color: white; }
+        .location { background: rgba(239, 68, 68, 0.3); color: white; }
+        .face { background: rgba(245, 158, 11, 0.3); color: white; }
+        .finance { background: rgba(34, 197, 94, 0.3); color: white; }
+        .developer { background: rgba(124, 58, 237, 0.3); color: white; }
+        .recovery { background: rgba(236, 72, 153, 0.3); color: white; }
+        .courses { background: rgba(251, 191, 36, 0.3); color: white; }
+
+        /* Advanced Features Banner */
+        .advanced-banner {
+            background: linear-gradient(135deg, var(--love-blue), var(--love-green));
+            color: white;
+            padding: 60px 0;
+            text-align: center;
+            margin: 60px 0;
+            border-radius: 20px;
+        }
+
+        .advanced-banner h3 {
+            font-size: 2.2rem;
+            margin-bottom: 20px;
+        }
+
+        .advanced-banner p {
+            font-size: 1.2rem;
+            max-width: 800px;
+            margin: 0 auto 30px;
+            opacity: 0.9;
+        }
+
+        .tech-badges {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 18px;
+            margin-top: 30px;
+        }
+
+        .tech-badge {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 11px 23px;
+            border-radius: 30px;
+            font-weight: 600;
+            font-size: 1rem;
+            backdrop-filter: blur(10px);
+        }
+
+        /* Justice & Transparency Section */
+        .justice-section {
+            background: linear-gradient(135deg, var(--justice-red), #b91c1c);
+            padding: 80px 0;
+            text-align: center;
+            color: white;
+        }
+
+        .justice-section .section-title h2 {
+            color: white;
+            font-size: 2.8rem;
+            margin-bottom: 20px;
+        }
+
+        .justice-section .section-title p {
+            color: rgba(255, 255, 255, 0.9);
+            max-width: 750px;
+            margin: 0 auto 40px;
+            font-size: 1.1rem;
+        }
+
+        .justice-features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin-top: 40px;
+        }
+
+        .justice-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 28px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .justice-card:hover {
+            transform: translateY(-10px);
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .justice-card i {
+            font-size: 45px;
+            margin-bottom: 18px;
+            display: block;
+        }
+
+        .justice-card h3 {
+            font-size: 1.4rem;
+            margin-bottom: 14px;
+        }
+
+        .justice-card p {
+            opacity: 0.9;
+            line-height: 1.6;
+        }
+
+        /* 7 Advanced Features Section */
+        .seven-features-section {
+            background: linear-gradient(135deg, var(--transparency-blue), var(--data-orange));
+            padding: 80px 0;
+            text-align: center;
+            color: white;
+        }
+
+        .seven-features-section .section-title h2 {
+            color: white;
+            font-size: 2.8rem;
+            margin-bottom: 20px;
+        }
+
+        .seven-features-section .section-title p {
+            color: rgba(255, 255, 255, 0.9);
+            max-width: 750px;
+            margin: 0 auto 40px;
+            font-size: 1.1rem;
+        }
+
+        .seven-features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin-top: 40px;
+        }
+
+        .seven-feature-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 28px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .seven-feature-card:hover {
+            transform: translateY(-10px);
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .seven-feature-card i {
+            font-size: 45px;
+            margin-bottom: 18px;
+            display: block;
+        }
+
+        .seven-feature-card h3 {
+            font-size: 1.4rem;
+            margin-bottom: 14px;
+        }
+
+        .seven-feature-card p {
+            opacity: 0.9;
+            line-height: 1.6;
+        }
+
+        .info { color: #93c5fd; }
+        .analyze { color: #fdba74; }
+        .transparency { color: #60a5fa; }
+        .crime { color: #f87171; }
+        .data-collection { color: var(--data-orange); }
+        .continuous-learning { color: var(--learning-purple); }
+        .prediction { color: var(--prediction-teal); }
+        .personalization { color: var(--personalization-pink); }
+
+        /* Security Section */
+        .security-section {
+            background: linear-gradient(135deg, var(--security-green), #15803d);
+            padding: 80px 0;
+            text-align: center;
+            color: white;
+        }
+
+        .security-section .section-title h2 {
+            color: white;
+            font-size: 2.8rem;
+            margin-bottom: 20px;
+        }
+
+        .security-section .section-title p {
+            color: rgba(255, 255, 255, 0.9);
+            max-width: 750px;
+            margin: 0 auto 40px;
+            font-size: 1.1rem;
+        }
+
+        .security-features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .security-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 25px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .security-card:hover {
+            transform: translateY(-10px);
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .security-card i {
+            font-size: 42px;
+            margin-bottom: 15px;
+            display: block;
+        }
+
+        .security-card h3 {
+            font-size: 1.4rem;
+            margin-bottom: 12px;
+        }
+
+        .security-card p {
+            opacity: 0.9;
+            line-height: 1.6;
+        }
+
+        /* Veo AI Video Section */
+        .veo-section {
+            background: linear-gradient(135deg, var(--veo-purple), #6d28d9);
+            padding: 80px 0;
+            text-align: center;
+            color: white;
+        }
+
+        .veo-section .section-title h2 {
+            color: white;
+            font-size: 2.8rem;
+            margin-bottom: 20px;
+        }
+
+        .veo-section .section-title p {
+            color: rgba(255, 255, 255, 0.9);
+            max-width: 750px;
+            margin: 0 auto 40px;
+            font-size: 1.1rem;
+        }
+
+        .veo-features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .veo-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .veo-card:hover {
+            transform: translateY(-10px);
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .veo-card i {
+            font-size: 48px;
+            margin-bottom: 20px;
+            display: block;
+        }
+
+        .veo-card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+        }
+
+        .veo-card p {
+            opacity: 0.9;
+            line-height: 1.7;
+        }
+
+        /* GPU Power Section */
+        .gpu-power {
+            background: linear-gradient(135deg, var(--gpu-red), #b91c1c);
+            padding: 80px 0;
+            text-align: center;
+            color: white;
+        }
+
+        .gpu-power .section-title h2 {
+            color: white;
+            font-size: 2.8rem;
+            margin-bottom: 20px;
+        }
+
+        .gpu-power .section-title p {
+            color: rgba(255, 255, 255, 0.9);
+            max-width: 750px;
+            margin: 0 auto 40px;
+            font-size: 1.1rem;
+        }
+
+        .gpu-stats {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 35px;
+            margin: 40px 0;
+        }
+
+        .gpu-stat {
+            text-align: center;
+        }
+
+        .gpu-stat .number {
+            font-size: 3.2rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.3);
+        }
+
+        .gpu-stat .label {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .gpu-features {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 35px;
+            margin-top: 40px;
+            max-width: 800px;
+            margin: 40px auto 0;
+        }
+
+        .gpu-features h3 {
+            font-size: 1.7rem;
+            margin-bottom: 20px;
+        }
+
+        .gpu-features ul {
+            text-align: left;
+            margin-top: 20px;
+        }
+
+        .gpu-features li {
+            margin: 10px 0;
+            padding-left: 25px;
+            position: relative;
+        }
+
+        .gpu-features li::before {
+            content: '⚡';
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+        /* Advanced Features Section */
+        .advanced-features {
+            background: linear-gradient(135deg, var(--web3-purple), var(--web5-orange));
+            padding: 80px 0;
+            text-align: center;
+            color: white;
+        }
+
+        .advanced-features .section-title h2 {
+            color: white;
+            font-size: 2.8rem;
+            margin-bottom: 20px;
+        }
+
+        .advanced-features .section-title p {
+            color: rgba(255, 255, 255, 0.9);
+            max-width: 750px;
+            margin: 0 auto 40px;
+            font-size: 1.1rem;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 25px;
+            margin-top: 40px;
+        }
+
+        .feature-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 28px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-10px);
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .feature-card i {
+            font-size: 45px;
+            margin-bottom: 18px;
+            display: block;
+        }
+
+        .feature-card h3 {
+            font-size: 1.4rem;
+            margin-bottom: 14px;
+        }
+
+        .feature-card p {
+            opacity: 0.9;
+            line-height: 1.6;
+        }
+
+        .web3 { color: #a78bfa; }
+        .web5 { color: #fdba74; }
+        .auto-update { color: #34d399; }
+        .auto-recovery { color: #f87171; }
+
+        /* Subscription Section */
+        .subscription-section {
+            background: linear-gradient(135deg, var(--subscription-yellow), #ca8a04);
+            padding: 80px 0;
+            text-align: center;
+            color: white;
+        }
+
         .subscription-section .section-title
